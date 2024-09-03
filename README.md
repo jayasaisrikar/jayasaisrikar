@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Faniketghormare%2Faniketghormare&psig=AOvVaw03XepeuwFSvBpy2xIu5F_S&ust=1725436585356000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD0j7CmpogDFQAAAAAdAAAAABAP))](https://jayasaisrikar.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Faniketghormare%2Faniketghormare&psig=AOvVaw03XepeuwFSvBpy2xIu5F_S&ust=1725436585356000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD0j7CmpogDFQAAAAAdAAAAABAP))]([https://jayasaisrikar.io](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Faniketghormare%2Faniketghormare&psig=AOvVaw03XepeuwFSvBpy2xIu5F_S&ust=1725436585356000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD0j7CmpogDFQAAAAAdAAAAABAP))
 <h1 align="center">Hi 👋, I'm Jaya Sai Srikar</h1>
 <h3 align="center">A passionate AI/ML enthusiast with experience in Python Fullstack Development</h3>
 
