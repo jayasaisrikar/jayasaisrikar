@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/v2/D5616AQGUGe5PfPBykA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720077666197?e=1730937600&v=beta&t=BTlFNBx9ufK4f_lpWSdO0hWdTxgwMYRz_zK79v0z_1w))](https://jayasaisrikar.netlify.app)
+![MasterHead](https://media.licdn.com/dms/image/C5616AQHdAZwmlt3-MQ/profile-displaybackgroundimage-shrink_200_800/0/1628742030836?e=2147483647&v=beta&t=-EQU_CDIBdknkrwEb5j8j7tnMPunCxBw85L684qWg_k)
 <h1 align="center">Hi 👋, I'm Jaya Sai Srikar</h1>
 <h3 align="center">A passionate AI/ML enthusiast with experience in Python Fullstack Development</h3>
 
